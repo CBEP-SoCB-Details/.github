@@ -2,33 +2,30 @@
 
 This collection of repositories is an archive of data and data analysis
 conducted during preparation of the Casco Bay Estuary Partnership (CBEP) 
-"State of Casco Bay" report.
+"State of Casco Bay" report. 
 
-The purpose of this collection is as an archive of methods used for
+The purpose of the collection is as an archive of methods used for
 analyses of State of Casco Bay data, to facilitate future projects.
-
-This collection of contains full "working" versions of the data
+The collection contains full "working" versions of the data
 analysis workflow used to produce the State of Casco Bay report.  It includes
 many files omitted from the companion collection found at the primary
-State of Casco Bay data analysis archive [at](https://github.com/CBEP-SoCB-Details).
+[State of Casco Bay data analysis archive](https://github.com/CBEP-SoCB-Details).
+Data and code were often omitted from that collection in order to simplify
+the repositories and clarify the principal data analysis pathway that led 
+to figures, tables, or narrative claims presented in the final SoCB report.
 
-In particular, this collection includes data and code omitted from
-that SoCB open science archive.  Data and code were often
-omitted from that collection in order to simplify the repositories and 
-clarify the principal data analysis pathway that led to figures, tables, 
-or narrative claims presented in the final SoCB report.
-
-Look here to find the additional, often messy details of our actual data analysis
+Look here to find additional, often messy details of our actual data analysis
 process.  These "working" files that have not been as carefully 
 reviewed as files in the `CBEP-SoCB-Details` archive, so typographical errors and 
-incomplete descriptions and documentation are more Files often 
-include inappropriate data analyses that we conducted as part of finding 
+incomplete descriptions and documentation are more common. Files often 
+include prelimnary data analyses that we conducted as part of finding 
 our way to more appropriate or more robust analyses. Analyses may be
-incomplete.   We offer few guideposts here regarding contents or 
-appropriateness of specific analyses, so buyer beware. 
+incomplete or inappropriate to the data.   We offer few guideposts here 
+regarding contents or appropriateness of specific analyses, so buyer beware. 
 
 Working data analysis repositories include the following types of files
-that were generally ommitted from the more concise `CBEP-SoCB-Details` archives:
+that were generally ommitted from the more concise 
+[CBEP-SoCB-Details](https://github.com/CBEP-SoCB-Details) archives:
 
 *  Source data (data as originally accessed or downloded), 
 
@@ -71,7 +68,7 @@ repositories.
 	    [LCWMD_Monitoring](https://github.com/CBEP-SoCB-Details/LCWMD_Monitoring)
     *  Geospatial data on locations of areas formally included in the
        "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
-	   [MS4-Regulated_Areas](https://github.com/CBEP-SoCB-Details/MS4_Regulated_Areas)  
+	   [MS4-Regulated_Areas](https://github.com/CBEP-SoCB-Details/MS4_Areas)  
 *  C.	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
 	    on CSO discharges. .......... 
