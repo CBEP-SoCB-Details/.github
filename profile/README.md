@@ -25,7 +25,7 @@ regarding contents or appropriateness of specific analyses, so buyer beware.
 
 Working data analysis repositories include the following types of files
 that were generally ommitted from the more concise 
-[CBEP-SoCB-Details](https://github.com/CBEP-SoCB-Details) archives:
+[CBEP-SoCB](https://github.com/CBEP-SoCB) archives:
 
 *  Source data (data as originally accessed or downloded), 
 
