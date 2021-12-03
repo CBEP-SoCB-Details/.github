@@ -75,7 +75,7 @@ repositories.
      [Casco_Bay_CSOs](https://github.com/CBEP-SoCB-Details/Casco_Bay_CSOs)  
 *  D. 	Inland Water Quality  
     *  Analyzing DEP Stream Invertebrate biomonitoring data. .......... 
-	   [Biomonitoring](https://github.com/CBEP-SoCB-Details/Biomonitoring) 
+	   [Biomonitoring](https://github.com/CBEP-SoCB-Details/Access_Biomonitoring) 
     *  Maine DEP geospatial information on impaired waters.......... 
 	   [Lake_Water_Quality](https://github.com/CBEP-SoCB-Details/Lake_Water_Quality)  
     *  Redrafting graphics based on Portland Water District's Lake 
@@ -86,7 +86,7 @@ repositories.
 *  E.	Climate Change  
     *  Analysis of eight decades of weather data from the Portland Jetport.
 	   Data accessed through NOAA online data APIs.  ..........
-	   [CDO-Portland-Jetport](https://github.com/CBEP-SoCB-Details/CDO-Portland-Jetport)  
+	   [CDO-Portland-Jetport](https://github.com/CBEP-SoCB-Details/CDO_Portland_Jetport)  
 	*  Analysis of nearly a century of sea levels at the Portland
 	   tide gauge and forcasts of future tidal flooding frequencies. .......... 
 	   [Portland-SLR](https://github.com/CBEP-SoCB-Details/Portland_SLR)  
@@ -99,10 +99,14 @@ repositories.
 *  G.	Bay Water Quality  
     * Friends of Casco Bay (FOCB) water quality monitoring data. .......... 
   	[FOCB_Data](https://github.com/CBEP-SoCB-Details/FOCB_WQ)  
-	  * Bay Stratification -- Analysis of stratification in several Casco Bay
+	* Bay Stratification -- Analysis of stratification in several Casco Bay
 	  subestuaries. .......... 
 	  [Bay_Stratification](https://github.com/CBEP-SoCB-Details/Bay_Stratification)
-*  H.	Nutrients  
+*  H.	Nutrients 
+    * Friends of Casco Bay (FOCB) nutrient-related data. .......... [FOCB_Nutrients](https://github.com/CBEP-SoCB-Details/FOCB_Nutrients)  
+	* Maine Department of Environmental Protection (DEP) nutrient-related 
+		data. .......... [DEP_Nutrients](https://github.com/CBEP-SoCB-Details/DEP_Nutrients) 
+	* Combined FOCB and DEP nutrient data. .......... [Combined_Nutrients](https://github.com/CBEP-SoCB-Details/Combined_Nutrients) 
 *  I.	Aquatic Connectivity  
 *  J.	Eelgrass  
 *  K.	Coastal Acidification  
@@ -119,16 +123,16 @@ repositories.
 	shellfish. .......... 
 	[Shellfish_Bacteria](https://github.com/CBEP-SoCB-Details//Shellfish_Bacteria)  
 	*  Maine Beaches Program data on bacteria at monitored beaches. ..........  
-	[Beaches_Bacteria](https://github.com/CBEP-SoCB-Details//Beaches_Bacteria)  
+	[Beaches_Bacteria](https://github.com/CBEP-SoCB-Details//Beaches_Bacteria)   
 *  M.	Toxics  
     * CBEP historical data on toxics in Casco Bay Sediments. .......... 
-	[CBEP_Sediments](https://github.com/CBEP-SoCB-Details//CBEP_Sediments)  
+	[CBEP_Sediments](https://github.com/CBEP-SoCB-Details//CBEP_Sediment)   
 	* Maine Surface Water Ambient Toxics (SWAT) data on toxic
 	contaminants in blue mussels. ..........
 	[SWAT_Mussels](https://github.com/CBEP-SoCB-Details//SWAT_Mussels)  
 	* Portland Harbor Commission data on toxic contaminants in Portland
 	harbor sediments. .......... 
-	[PortlandHarborToxics](https://github.com/CBEP-SoCB-Details//PortlandHarborToxics)  
+	[PortlandHarborToxics](https://github.com/CBEP-SoCB-Details//Portland Harbor Toxics)  
 	* Maine Board of Pesticides Control data on pyrethroid pesticides in
 	intertidal sediments. .......... 
 	[BPC_Pesticides](https://github.com/CBEP-SoCB-Details//BPC_Pesticides)  
@@ -139,7 +143,7 @@ repositories.
 *  P.	Economics  
     *  Analysis of recent (pre-pandemic) data on number of cruise ships and 
     cruise ship visitors visiting Portland, Maine. .......... 
-	[PortlandCruiseShips](https://github.com/CBEP-SoCB-Details//PortlandCruiseShips)  
+	[PortlandCruiseShips](https://github.com/CBEP-SoCB-Details//Portland_Cruise_Ships)  
 *  Q.	Education  
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
@@ -148,14 +152,14 @@ repositories.
 *  Small package to facilitate use of maximum likelihood estimates of 
    (unobserved) left censored values in left censored data, such as
    observations of concentrations of contaminants or bacteria.
-   ..........  [LCensMeans](https://github.com/CBEP-SoCB-Details/LCensMeans)
+   ..........  [LCensMeans](https://github.com/CBEP-SoCB/LCensMeans)
 *  Utility package to facilitate uniformity in graphic design for 
    the 2020-2021 **State of Casco Bay** report.  Defines a default
    graphic style, fonts and six preferred colors.  ..........
-   [CBEP_graphics](https://github.com/ccbCBEP-SoCB-Details60/CBEP_graphics)
+   [CBEP_graphics](https://github.com/CBEP-SoCB/CBEP_graphics)
 *  Package to generate several varieties of ggplot style graphics from depth 
    profile data, including interpolated two dimensional depth by time or
-   depth by location color plots. [tdggraph](https://github.com/ccbCBEP-SoCB-Details60/tdggraph)
+   depth by location color plots. [tdggraph](https://github.com/CBEP-SoCB/tdggraph)
 
 # General Data Sources and Information
 *  Watershed Boundary
