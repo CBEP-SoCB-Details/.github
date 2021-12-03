@@ -68,14 +68,14 @@ repositories.
 	    [LCWMD_Monitoring](https://github.com/CBEP-SoCB-Details/LCWMD_Monitoring)
     *  Geospatial data on locations of areas formally included in the
        "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
-	   [MS4-Regulated_Areas](https://github.com/CBEP-SoCB-Details/MS4_Areas)  
+	   [MS4_Areas](https://github.com/CBEP-SoCB-Details/MS4_Areas)  
 *  C.	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
-	    on CSO discharges. .......... 
-     [Casco_Bay_CSOs](https://github.com/CBEP-SoCB-Details/Casco_Bay_CSOs)  
+       on CSO discharges. .......... 
+       [Casco_Bay_CSOs](https://github.com/CBEP-SoCB-Details/Casco_Bay_CSOs)  
 *  D. 	Inland Water Quality  
     *  Analyzing DEP Stream Invertebrate biomonitoring data. .......... 
-	   [Biomonitoring](https://github.com/CBEP-SoCB-Details/Access_Biomonitoring) 
+	   [Access_Biomonitoring](https://github.com/CBEP-SoCB-Details/Access_Biomonitoring) 
     *  Maine DEP geospatial information on impaired waters.......... 
 	   [Lake_Water_Quality](https://github.com/CBEP-SoCB-Details/Lake_Water_Quality)  
     *  Redrafting graphics based on Portland Water District's Lake 
@@ -86,10 +86,10 @@ repositories.
 *  E.	Climate Change  
     *  Analysis of eight decades of weather data from the Portland Jetport.
 	   Data accessed through NOAA online data APIs.  ..........
-	   [CDO-Portland-Jetport](https://github.com/CBEP-SoCB-Details/CDO_Portland_Jetport)  
+	   [CDO_Portland_Jetport](https://github.com/CBEP-SoCB-Details/CDO_Portland_Jetport)  
 	*  Analysis of nearly a century of sea levels at the Portland
 	   tide gauge and forcasts of future tidal flooding frequencies. .......... 
-	   [Portland-SLR](https://github.com/CBEP-SoCB-Details/Portland_SLR)  
+	   [Portland_SLR](https://github.com/CBEP-SoCB-Details/Portland_SLR)  
 *  F.	Invasive Species 
     *  Review of MIMIC data on prevalence of selected invasive
 	   marine invertebrates in Casco Bay. .......... 
@@ -132,7 +132,7 @@ repositories.
 	[SWAT_Mussels](https://github.com/CBEP-SoCB-Details//SWAT_Mussels)  
 	* Portland Harbor Commission data on toxic contaminants in Portland
 	harbor sediments. .......... 
-	[PortlandHarborToxics](https://github.com/CBEP-SoCB-Details//Portland Harbor Toxics)  
+	[Portland_Harbor_Toxics](https://github.com/CBEP-SoCB-Details//Portland_Harbor_Toxics)  
 	* Maine Board of Pesticides Control data on pyrethroid pesticides in
 	intertidal sediments. .......... 
 	[BPC_Pesticides](https://github.com/CBEP-SoCB-Details//BPC_Pesticides)  
