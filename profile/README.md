@@ -156,7 +156,7 @@ repositories.
 *  Utility package to facilitate uniformity in graphic design for 
    the 2020-2021 **State of Casco Bay** report.  Defines a default
    graphic style, fonts and six preferred colors.  ..........
-   [CBEP_graphics](https://github.com/CBEP-SoCB/CBEP_graphics)
+   [CBEPgraphics](https://github.com/CBEP-SoCB/CBEPgraphics)
 *  Package to generate several varieties of ggplot style graphics from depth 
    profile data, including interpolated two dimensional depth by time or
    depth by location color plots. [tdggraph](https://github.com/CBEP-SoCB/tdggraph)
