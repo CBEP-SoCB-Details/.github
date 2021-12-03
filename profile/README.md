@@ -9,7 +9,7 @@ analyses of State of Casco Bay data, to facilitate future projects.
 The collection contains full "working" versions of the data
 analysis workflow used to produce the State of Casco Bay report.  It includes
 many files omitted from the companion collection found at the primary
-[State of Casco Bay data analysis archive](https://github.com/CBEP-SoCB-Details).
+[State of Casco Bay data analysis archive](https://github.com/CBEP-SoCB).
 Data and code were often omitted from that collection in order to simplify
 the repositories and clarify the principal data analysis pathway that led 
 to figures, tables, or narrative claims presented in the final SoCB report.
