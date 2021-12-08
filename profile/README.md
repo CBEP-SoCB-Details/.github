@@ -150,7 +150,7 @@ repositories.
 
 # Reusable Code and Utilities
 *  Small package to facilitate use of maximum likelihood estimates of 
-   (unobserved) left censored values in left censored data, such as
+   (unobserved) "non-detects" in left censored data, such as
    observations of concentrations of contaminants or bacteria.
    ..........  [LCensMeans](https://github.com/CBEP-SoCB/LCensMeans)
 *  Utility package to facilitate uniformity in graphic design for 
