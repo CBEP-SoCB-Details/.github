@@ -18,36 +18,36 @@ Look here to find additional, often messy details of our actual data analysis
 process.  These "working" files that have not been as carefully 
 reviewed as files in the `CBEP-SoCB-Details` archive, so typographical errors and 
 incomplete descriptions and documentation are more common. Files often 
-include prelimnary data analyses that we conducted as part of finding 
+include preliminary data analyses that we conducted as part of finding 
 our way to more appropriate or more robust analyses. Analyses may be
 incomplete or inappropriate to the data.   We offer few guideposts here 
 regarding contents or appropriateness of specific analyses, so buyer beware. 
 
 Working data analysis repositories include the following types of files
-that were generally ommitted from the more concise 
+that were generally omitted from the more concise 
 [CBEP-SoCB](https://github.com/CBEP-SoCB) archives:
 
-*  Source data (data as originally accessed or downloded), 
+*  Source data (data as originally accessed or downloaded), 
 
-*  Data acccess scripts, when relevant, and detailed 
+*  Data access scripts, when relevant, and detailed 
    of data access steps when data was accessed from online sources by hand,
 
 *  Code documenting our data QA/QC review of source data, 
 
 *  Code that restructured source data into working data, or more 
-   detailed descriptions of data preparation steps that are not documentes
+   detailed descriptions of data preparation steps that are not documented
    implicitly in R Code (e.g., for GIS workflows conducted by hand in ArcGIS).
 
 *  Additional intermediate GIS files
 
 *  Supplementary analyses that informed our understanding of the data, but were
-   ultimately not referred to in State of  Casci Bay,
+   ultimately not referred to in State of  Casco Bay,
 
 *  Additional analyses or analyses of related data sets that we ended up not 
-   using in the final "State of Casco Bay" Reportdocumenting,
+   using in the final "State of Casco Bay" Report documenting,
 
 *  Code that explored data analysis methods (e.g., for analysis of acidification 
-   data in R) or developed aproaches for graphical presentation of results.
+   data in R) or developed approaches for graphical presentation of results.
 
 ## Repository Contents
 <a name="Contents"></a>
@@ -67,7 +67,7 @@ repositories.
 	  provided by the Long Creek Watershed Management District. .......... 
 	    [LCWMD_Monitoring](https://github.com/CBEP-SoCB-Details/LCWMD_Monitoring)
     *  Geospatial data on locations of areas formally included in the
-       "Municipal Seperate Storm Sewer System" or MS4 program. .......... 
+       "Municipal Separate Storm Sewer System" or MS4 program. .......... 
 	   [MS4_Areas](https://github.com/CBEP-SoCB-Details/MS4_Areas)  
 *  C.	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
@@ -88,7 +88,7 @@ repositories.
 	   Data accessed through NOAA online data APIs.  ..........
 	   [CDO_Portland_Jetport](https://github.com/CBEP-SoCB-Details/CDO_Portland_Jetport)  
 	*  Analysis of nearly a century of sea levels at the Portland
-	   tide gauge and forcasts of future tidal flooding frequencies. .......... 
+	   tide gauge and forecasts of future tidal flooding frequencies. .......... 
 	   [Portland_SLR](https://github.com/CBEP-SoCB-Details/Portland_SLR)  
 *  F.	Invasive Species 
     *  Review of MIMIC data on prevalence of selected invasive
@@ -115,7 +115,7 @@ repositories.
 	in South Portland.  .......... 
 	[CBEP_OA](https://github.com/CBEP-SoCB-Details//CBEP_OA)  
 	* Analysis of a four years of Friends of Casco Bay (FOCB) water quality
-	data that pertians to ocean acidification.  Data is from data loggers
+	data that pertains to ocean acidification.  Data is from data loggers
 	deployed off Chebeague Island. .......... 
 	[FOCB_OA](https://github.com/CBEP-SoCB-Details//FOCB_OA)  
 *  L.	Swimming Beaches and Shellfish Beds  
@@ -148,7 +148,7 @@ repositories.
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
 
-# Reuseable Code and Utilities
+# Reusable Code and Utilities
 *  Small package to facilitate use of maximum likelihood estimates of 
    (unobserved) left censored values in left censored data, such as
    observations of concentrations of contaminants or bacteria.
@@ -183,7 +183,7 @@ You can find more information about CBEP on our
 
 Casco Bay is approximately 160 square miles in size, dotted with hundreds of
 islands. The roughly 980 square mile watershed is long and narrow, extending as
-far as the mountains of Western Maine.  Fourty eight towns and cities touch the
+far as the mountains of Western Maine.  Forty eight towns and cities touch the
 watershed.  Twelve are coastal communities with marine shorelines. Our largest
 urban center is Portland, Maine, located on the South West corner of the Bay.
 Dozens of lakes dot the watershed including Sebago Lake, Maine's deepest, and
@@ -204,7 +204,7 @@ growing aquaculture industry(principally blue mussels, american oyster, and
 sugar kelp). Portland Harbor handles both container ships and oil tankers.
 Land-based businesses on the waterfront support Maine's fishing industry, but
 also support a burgeoning restaurant scene.  In fact, tourism (including
-restuarants, lodging, cruise ships, tour operations, etc. (but omitting property
+restaurants, lodging, cruise ships, tour operations, etc. (but omitting property
 rentals and real estate) represents close to three quarters of all
 marine-related economic activity of the region.
 
