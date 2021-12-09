@@ -64,44 +64,32 @@ repositories.
 	*  Land Use  
 *  B.	Stormwater  
     *  Ten years of water quality monitoring data from Long Creek, 
-	  provided by the Long Creek Watershed Management District. .......... 
-	    [LCWMD_Monitoring](https://github.com/CBEP-SoCB-Details/LCWMD_Monitoring)
+	  provided by the Long Creek Watershed Management District. .......... [LCWMD_Monitoring](https://github.com/CBEP-SoCB-Details/LCWMD_Monitoring)
     *  Geospatial data on locations of areas formally included in the
-       "Municipal Separate Storm Sewer System" or MS4 program. .......... 
-	   [MS4_Areas](https://github.com/CBEP-SoCB-Details/MS4_Areas)  
+       "Municipal Separate Storm Sewer System" or MS4 program. .......... [MS4_Areas](https://github.com/CBEP-SoCB-Details/MS4_Areas)  
 *  C.	Combined Sewer Overflows  
     *  Maine DEP, City of Portland, and Portland Water District data
-       on CSO discharges. .......... 
-       [Casco_Bay_CSOs](https://github.com/CBEP-SoCB-Details/Casco_Bay_CSOs)  
+       on CSO discharges. .......... [Casco_Bay_CSOs](https://github.com/CBEP-SoCB-Details/Casco_Bay_CSOs)  
 *  D. 	Inland Water Quality  
-    *  Analyzing DEP Stream Invertebrate biomonitoring data. .......... 
-	   [Access_Biomonitoring](https://github.com/CBEP-SoCB-Details/Access_Biomonitoring) 
-    *  Maine DEP geospatial information on impaired waters.......... 
-	   [Lake_Water_Quality](https://github.com/CBEP-SoCB-Details/Lake_Water_Quality)  
+    *  Analyzing DEP Stream Invertebrate biomonitoring data. .......... [Access_Biomonitoring](https://github.com/CBEP-SoCB-Details/Access_Biomonitoring) 
+    *  Maine DEP geospatial information on impaired waters.......... [Lake_Water_Quality](https://github.com/CBEP-SoCB-Details/Lake_Water_Quality)  
     *  Redrafting graphics based on Portland Water District's Lake 
-	   Vulnerability Index. .......... 
-	   [PWD_Lake_WQ_Index](https://github.com/CBEP-SoCB-Details/PWD_Lake_WQ_Index)
-    *  Water quality data from the Presumpscot Watershed. ..........
-	   [Presumpscot_Water_Quality](https://github.com/CBEP-SoCB-Details/Presumpscot_WQ)  
+	   Vulnerability Index. .......... [PWD_Lake_WQ_Index](https://github.com/CBEP-SoCB-Details/PWD_Lake_WQ_Index)
+    *  Water quality data from the Presumpscot Watershed. .......... [Presumpscot_Water_Quality](https://github.com/CBEP-SoCB-Details/Presumpscot_WQ)  
 *  E.	Climate Change  
     *  Analysis of eight decades of weather data from the Portland Jetport.
-	   Data accessed through NOAA online data APIs.  ..........
-	   [CDO_Portland_Jetport](https://github.com/CBEP-SoCB-Details/CDO_Portland_Jetport)  
+	   Data accessed through NOAA online data APIs.  .......... [CDO_Portland_Jetport](https://github.com/CBEP-SoCB-Details/CDO_Portland_Jetport)  
 	*  Analysis of nearly a century of sea levels at the Portland
-	   tide gauge and forecasts of future tidal flooding frequencies. .......... 
-	   [Portland_SLR](https://github.com/CBEP-SoCB-Details/Portland_SLR)  
+	   tide gauge and forecasts of future tidal flooding frequencies. .......... [Portland_SLR](https://github.com/CBEP-SoCB-Details/Portland_SLR)  
 *  F.	Invasive Species 
     *  Review of MIMIC data on prevalence of selected invasive
-	   marine invertebrates in Casco Bay. .......... 
-	   [CB_Invasives](https://github.com/CBEP-SoCB-Details/CB_Invasives)
+	   marine invertebrates in Casco Bay. .......... [CB_Invasives](https://github.com/CBEP-SoCB-Details/CB_Invasives)
 
 ### CONDITION OF THE BAY; "How is the Bay doing?"	
 *  G.	Bay Water Quality  
-    * Friends of Casco Bay (FOCB) water quality monitoring data. .......... 
-  	[FOCB_Data](https://github.com/CBEP-SoCB-Details/FOCB_WQ)  
+    * Friends of Casco Bay (FOCB) water quality monitoring data. .......... [FOCB_Data](https://github.com/CBEP-SoCB-Details/FOCB_WQ)  
 	* Bay Stratification -- Analysis of stratification in several Casco Bay
-	  subestuaries. .......... 
-	  [Bay_Stratification](https://github.com/CBEP-SoCB-Details/Bay_Stratification)
+	  subestuaries. .......... [Bay_Stratification](https://github.com/CBEP-SoCB-Details/Bay_Stratification)
 *  H.	Nutrients 
     * Friends of Casco Bay (FOCB) nutrient-related data. .......... [FOCB_Nutrients](https://github.com/CBEP-SoCB-Details/FOCB_Nutrients)  
 	* Maine Department of Environmental Protection (DEP) nutrient-related 
@@ -112,38 +100,29 @@ repositories.
 *  K.	Coastal Acidification  
     * Analysis of data collected by UNH, on behalf of CBEP, measuring
 	OA-related parameters at the Southern Maine Community College pier,
-	in South Portland.  .......... 
-	[CBEP_OA](https://github.com/CBEP-SoCB-Details//CBEP_OA)  
+	in South Portland.  .......... [CBEP_OA](https://github.com/CBEP-SoCB-Details//CBEP_OA)  
 	* Analysis of a four years of Friends of Casco Bay (FOCB) water quality
 	data that pertains to ocean acidification.  Data is from data loggers
-	deployed off Chebeague Island. .......... 
-	[FOCB_OA](https://github.com/CBEP-SoCB-Details//FOCB_OA)  
+	deployed off Chebeague Island. .......... [FOCB_OA](https://github.com/CBEP-SoCB-Details//FOCB_OA)  
 *  L.	Swimming Beaches and Shellfish Beds  
     *  Maine Department of Marine Resources (DMR) data on bacteria in
-	shellfish. .......... 
-	[Shellfish_Bacteria](https://github.com/CBEP-SoCB-Details//Shellfish_Bacteria)  
-	*  Maine Beaches Program data on bacteria at monitored beaches. ..........  
-	[Beaches_Bacteria](https://github.com/CBEP-SoCB-Details//Beaches_Bacteria)   
+	shellfish. .......... [Shellfish_Bacteria](https://github.com/CBEP-SoCB-Details//Shellfish_Bacteria)  
+	*  Maine Beaches Program data on bacteria at monitored beaches. .......... [Beaches_Bacteria](https://github.com/CBEP-SoCB-Details//Beaches_Bacteria)   
 *  M.	Toxics  
-    * CBEP historical data on toxics in Casco Bay Sediments. .......... 
-	[CBEP_Sediments](https://github.com/CBEP-SoCB-Details//CBEP_Sediment)   
+    * CBEP historical data on toxics in Casco Bay Sediments. .......... [CBEP_Sediments](https://github.com/CBEP-SoCB-Details//CBEP_Sediment)   
 	* Maine Surface Water Ambient Toxics (SWAT) data on toxic
-	contaminants in blue mussels. ..........
-	[SWAT_Mussels](https://github.com/CBEP-SoCB-Details//SWAT_Mussels)  
+	contaminants in blue mussels. .......... [SWAT_Mussels](https://github.com/CBEP-SoCB-Details//SWAT_Mussels)  
 	* Portland Harbor Commission data on toxic contaminants in Portland
-	harbor sediments. .......... 
-	[Portland_Harbor_Toxics](https://github.com/CBEP-SoCB-Details//Portland_Harbor_Toxics)  
+	harbor sediments. .......... [Portland_Harbor_Toxics](https://github.com/CBEP-SoCB-Details//Portland_Harbor_Toxics)  
 	* Maine Board of Pesticides Control data on pyrethroid pesticides in
-	intertidal sediments. .......... 
-	[BPC_Pesticides](https://github.com/CBEP-SoCB-Details//BPC_Pesticides)  
+	intertidal sediments. .......... [BPC_Pesticides](https://github.com/CBEP-SoCB-Details//BPC_Pesticides)  
 
 ### HUMAN CONNECTIONS; "What's Being Done?"	  
 *  N.	Conserved Lands  
 *  O.	Coastal Habitats  
 *  P.	Economics  
     *  Analysis of recent (pre-pandemic) data on number of cruise ships and 
-    cruise ship visitors visiting Portland, Maine. .......... 
-	[Portland_Cruise_Ships](https://github.com/CBEP-SoCB-Details//Portland_Cruise_Ships)  
+    cruise ship visitors visiting Portland, Maine. .......... [Portland_Cruise_Ships](https://github.com/CBEP-SoCB-Details//Portland_Cruise_Ships)  
 *  Q.	Education  
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
@@ -159,7 +138,7 @@ repositories.
    [CBEPgraphics](https://github.com/CBEP-SoCB/CBEPgraphics)
 *  Package to generate several varieties of ggplot style graphics from depth 
    profile data, including interpolated two dimensional depth by time or
-   depth by location color plots. [tdggraph](https://github.com/CBEP-SoCB/tdggraph)
+   depth by location color plots. .......... [tdggraph](https://github.com/CBEP-SoCB/tdggraph)
 
 # General Data Sources and Information
 *  Watershed Boundary
