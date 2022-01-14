@@ -122,7 +122,7 @@ repositories.
 *  O.	Coastal Habitats  
 *  P.	Economics  
     *  Analysis of recent (pre-pandemic) data on number of cruise ships and 
-    cruise ship visitors visiting Portland, Maine. .......... [Portland_Cruise_Ships](https://github.com/CBEP-SoCB-Details//Portland_Cruise_Ships)  
+    cruise ship visitors visiting Portland, Maine. .......... [Portland_Cruise_Ships](https://github.com/CBEP-SoCB-Details/Portland_Cruise_Ships)  
 *  Q.	Education  
 *  R.	Stewardship  
 *  S.	Climate Preparedness  
